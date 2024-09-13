@@ -40,3 +40,18 @@
 .read-the-docs {
   color: #888;
 }
+
+
+.custom-datatable .p-datatable-table {
+    border: 1px solid black;
+}
+
+
+.custom-datatable .p-datatable-thead > tr {
+    background-color: #1a0b0b; 
+    color: #cc1616; 
+}
+
+.custom-datatable .p-datatable-thead th {
+    border-bottom: 2px solid #101111;
+}
